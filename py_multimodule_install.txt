@@ -1,0 +1,11 @@
+INSTALLING MULTIPLE PACKEAGE FOR PYTHON
+S-1
+make a file requirements.txt for containing:
+required modulus
+
+s-2 pip install -r requirements.txt
+
+Handled Errors:
+ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'
+1. ensure that the file was correctly named
+2. Fixed Broken Package Issues
